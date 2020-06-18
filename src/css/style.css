@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(17, 22, 31);
+    color: white;
+}
+
+h1{
+    margin-top: 23rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    margin-bottom: 2rem;
+}

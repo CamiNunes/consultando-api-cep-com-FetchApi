@@ -1,0 +1,23 @@
+{
+  "name": "consultando-api-cep-com-FetchApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiNunes/consultando-api-cep-com-FetchApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamiNunes/consultando-api-cep-com-FetchApi/issues"
+  },
+  "homepage": "https://github.com/CamiNunes/consultando-api-cep-com-FetchApi#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
